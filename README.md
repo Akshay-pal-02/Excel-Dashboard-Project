@@ -1,4 +1,4 @@
-dashboard.png
+![Dashboard Preview](dashboard.png)
 
 # Excel Sales Dashboard Project
 
