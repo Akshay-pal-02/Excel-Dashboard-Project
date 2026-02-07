@@ -1,5 +1,4 @@
-
-![Dashboard Preview](Screenshot 2026-02-07 014609.png)
+dashboard.png
 
 # Excel Sales Dashboard Project
 
