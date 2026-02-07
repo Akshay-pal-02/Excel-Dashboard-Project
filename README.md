@@ -1,3 +1,6 @@
+
+![Dashboard Preview](Screenshot 2026-02-07 014609.png)
+
 # Excel Sales Dashboard Project
 
 This is an interactive Excel dashboard created using Microsoft Excel.
